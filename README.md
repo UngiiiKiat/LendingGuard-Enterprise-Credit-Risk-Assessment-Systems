@@ -12,9 +12,11 @@
 
 `Berdasarkan data historis, angka kredit macet pada dataset ini berada di kisaran 10.9%. Meskipun terlihat kecil, akumulasi kerugian dari angka tersebut dapat mengganggu likuiditas institusi. Proyek ini bertujuan untuk membangun sistem otomatisasi Credit Scoring menggunakan Machine Learning dengan beberapa poin fokus utama:`
 
-`1. Akurasi Prediksi: Mengidentifikasi calon nasabah berisiko tinggi sejak tahap pendaftaran (Point of Origination) guna menekan angka Non-Performing Loan (NPL).`
-`2. Efisiensi Operasional: Mengurangi ketergantungan pada penilaian manual yang subjektif dan lambat, sehingga proses persetujuan kredit menjadi lebih cepat dan objektif.`
-`3. Integritas Data: Menerapkan framework "Zero Data Leakage" untuk memastikan model tidak menggunakan variabel masa depan yang tidak tersedia saat aplikasi pinjaman diajukan.`
+* `1. Akurasi Prediksi: Mengidentifikasi calon nasabah berisiko tinggi sejak tahap pendaftaran (Point of Origination) guna menekan angka Non-Performing Loan (NPL).`
+
+* `2. Efisiensi Operasional: Mengurangi ketergantungan pada penilaian manual yang subjektif dan lambat, sehingga proses persetujuan kredit menjadi lebih cepat dan objektif.`
+
+* `3. Integritas Data: Menerapkan framework "Zero Data Leakage" untuk memastikan model tidak menggunakan variabel masa depan yang tidak tersedia saat aplikasi pinjaman diajukan.`
 
 ## Dataset
 
